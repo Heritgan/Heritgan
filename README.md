@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Heritgan.
+- 👀 I’m interested in web based application development and sharpening my Java/JS abilities.
+- 🌱 I’m currently learning Java & JavaScript.
+- 💞️ I’m looking to collaborate on projects involving Java & JavaScript code.
+- 📫 How to reach me: Heritgan#0001.
